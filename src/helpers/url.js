@@ -1,0 +1,1 @@
+export const url = "https://simulacro-prueba-tecnica.herokuapp.com/data";
